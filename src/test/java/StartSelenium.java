@@ -17,6 +17,7 @@ public class StartSelenium {
     public void startGoogle(){
         wb.get("https://www.google.co.il/");
        // wb.navigate().to("https://www.google.co.il/");
+
     }
 
     @AfterMethod
